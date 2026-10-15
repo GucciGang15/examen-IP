@@ -1,0 +1,13 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos de caché
+__pycache__/
+*.py[cod]
+
+# Archivos generados por PyInstaller
+/build/
+/dist/
+
+__pycache__/
+*.py[cod]
